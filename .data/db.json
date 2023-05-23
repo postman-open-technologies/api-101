@@ -1,0 +1,30 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Blanche Devereux",
+      "type": "Individual",
+      "admin": "postman"
+    },
+    {
+      "id": 2,
+      "name": "Rose Nylund",
+      "type": "Individual",
+      "admin": "postman"
+    },
+    {
+      "id": 3,
+      "name": "Shady Pines",
+      "type": "Company",
+      "admin": "postman"
+    }
+  ],
+  "count": 3,
+  "calls": [
+    {
+      "when": "Tue May 23 2023 14:43:13 GMT+0000 (Coordinated Universal Time)",
+      "where": "GET /",
+      "what": null
+    }
+  ]
+}

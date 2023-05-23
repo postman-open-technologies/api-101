@@ -1,0 +1,23 @@
+{
+  "name": "api-101",
+  "description": "Rest API Example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/postman-open-technologies/api-101",
+  "author": "Bello Gbadebo <gbahdeybohbello@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "xml": "^1.0.1",
+    "lowdb": "^1.0.0"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ]
+}
